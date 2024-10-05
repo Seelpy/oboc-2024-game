@@ -21,3 +21,6 @@
 ```bash
 ./bin/stop-compose.sh
 ```
+
+# Ссылка на видеоматериал
+- https://kappa.lol/z7qtl
